@@ -48,13 +48,16 @@ Tip: The [homepage](https://code.visualstudio.com) automatically detects the OS 
             ~/pyenv_empra/bin/activate
             ```
         * On **Windows** click on **Find...** and then navigate to and select the python.exe file as shown below.
-        ![alt text](screenshots/image-3.png)
+        ![alt text](screenshots/image-3.png)\
+        \
         Double click on **pyenv_empra**
-        ![alt text](screenshots/step1.png)
+        ![alt text](screenshots/step1.png)\
+        \
         Double click on **Scripts**
-        ![alt text](screenshots/step2.png)
+        ![alt text](screenshots/step2.png)\
+        \
         Double click on **python.exe**
         ![alt text](screenshots/step3.png)
 
 
-    6. That's all! We should be able to run python files on VS Code now!
+    6. That's all! We should be able to now run python files on VS Code now!
