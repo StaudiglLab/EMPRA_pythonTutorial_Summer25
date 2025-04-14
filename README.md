@@ -14,7 +14,7 @@ Tip: The [homepage](https://code.visualstudio.com) automatically detects the OS 
 
 3. The next step is specific to your operating system.
 
-    * On **Windows**, open **Command Prompt** (type cmd on the start menu) and copy paste the following lines into it.
+    * On **Windows**, open **Command Prompt** (type cmd on the start menu), copy paste the following lines into it, and hit enter.
         ```
         py -m venv %USERPROFILE%\pyenv_empra
         %USERPROFILE%\pyenv_empra\Scripts\Activate
@@ -23,7 +23,7 @@ Tip: The [homepage](https://code.visualstudio.com) automatically detects the OS 
 
         Wait till all the packages finish installing.
 
-    * On **Mac OS/Linux**, open a **Terminal** and copy paste the following lines into it.
+    * On **Mac OS/Linux**, open a **Terminal**, copy paste the following lines into it, and hit enter.
 
         ```
         python3 -m venv ~/pyenv_empra
@@ -32,7 +32,7 @@ Tip: The [homepage](https://code.visualstudio.com) automatically detects the OS 
         ```
         Wait till all the packages finish installing.
 
- 4. Open **VS Code** and go to **File > Preferences > Extensions**. Search for "Python" and click on install for the first extension that shows up on the list. Next, search for "Jupyter" and again click on install for the first extension on the list.
+ 4. Open **VS Code** and go to **File > Preferences > Extensions**. Search for "Python" and click on install for the first extension that shows up on the list. Next, search for "Jupyter" and again click on install for the first extension on the list. You do not need to click on any options that VS Code presents you with after installing the extensions.
 
 5. The following are the final steps to link VS Code to the python setup. 
 
@@ -43,10 +43,7 @@ Tip: The [homepage](https://code.visualstudio.com) automatically detects the OS 
     ![alt text](screenshots/image-1.png)
 
     * Depending on your OS,
-        * On **Linux/Mac OS**, simply paste the following line and hit enter.
-            ```
-            ~/pyenv_empra/bin/activate
-            ```
+        
         * On **Windows** click on **Find...** and then navigate to and select the python.exe file as shown below.
         ![alt text](screenshots/image-3.png)\
         \
@@ -59,4 +56,12 @@ Tip: The [homepage](https://code.visualstudio.com) automatically detects the OS 
         Double click on **python.exe**
         ![alt text](screenshots/step3.png)
 
-6. **That's all!** We should be able to run python files on VS Code now!
+        * On **Linux/Mac OS**, simply paste the following line and hit enter.
+            ```
+            ~/pyenv_empra/bin/activate
+            ```
+6. For a quick check if things have gone well so far, download "test.py" from this repository, open it on VS Code, and run it by clicking on the run icon (first icon on the top right corner on the same row where you see the filename).
+
+    ![alt text](screenshots/image-4.png)
+    
+If it runs through and prints "All is well", then **that's all!**. We should be able to run python files on VS Code now!
