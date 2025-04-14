@@ -65,4 +65,4 @@ Tip: The [homepage](https://code.visualstudio.com) automatically detects the OS 
 
     ![alt text](screenshots/image-4.png)
 
-If it runs through and prints "All is well", then **that's all!** We should be able to run python files on VS Code now!
+    If it runs through and prints "All is well", then **that's all!** We should be able to run python files on VS Code now!
