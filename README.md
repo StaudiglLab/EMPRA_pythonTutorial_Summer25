@@ -59,5 +59,4 @@ Tip: The [homepage](https://code.visualstudio.com) automatically detects the OS 
         Double click on **python.exe**
         ![alt text](screenshots/step3.png)
 
-
-    6. That's all! We should be able to now run python files on VS Code now!
+6. That's all! We should be able to now run python files on VS Code now!
