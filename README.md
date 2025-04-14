@@ -32,7 +32,8 @@ Tip: The [homepage](https://code.visualstudio.com) automatically detects the OS 
         ```
         Wait till all the packages finish installing.
 
- 4. Open **VS Code** and go to **File > Preferences > Extensions**. Search for "Python" and click on install for the first extension that shows up on the list. Next, search for "Jupyter" and again click on install for the first extension on the list. You do not need to click on any options that VS Code presents you with after installing the extensions.
+ 4. Open **VS Code** and go to **File > Preferences > Extensions**. Search for "Python" and click on install for the first extension that shows up on the list. Next, search for "Jupyter" and again click on install for the first extension on the list.\
+  Note: ou do not need to click on any options that VS Code presents you with after installing the extensions.
 
 5. The following are the final steps to link VS Code to the python setup. 
 
@@ -63,5 +64,5 @@ Tip: The [homepage](https://code.visualstudio.com) automatically detects the OS 
 6. For a quick check if things have gone well so far, download "test.py" from this repository, open it on VS Code, and run it by clicking on the run icon (first icon on the top right corner on the same row where you see the filename).
 
     ![alt text](screenshots/image-4.png)
-    
-If it runs through and prints "All is well", then **that's all!**. We should be able to run python files on VS Code now!
+
+If it runs through and prints "All is well", then **that's all!** We should be able to run python files on VS Code now!
