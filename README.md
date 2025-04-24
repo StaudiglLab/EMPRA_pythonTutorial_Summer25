@@ -18,7 +18,7 @@ Tip: The [homepage](https://code.visualstudio.com) automatically detects the OS 
         ```
         py -m venv %USERPROFILE%\pyenv_empra
         %USERPROFILE%\pyenv_empra\Scripts\Activate
-        py -m pip install numpy matplotlib scipy pandas 
+        py -m pip install numpy matplotlib scipy pandas ipykernel
         ```
 
         Wait till all the packages finish installing.
@@ -28,7 +28,7 @@ Tip: The [homepage](https://code.visualstudio.com) automatically detects the OS 
         ```
         python3 -m venv ~/pyenv_empra
         source ~/pyenv_empra/bin/activate
-        python3 -m pip install numpy matplotlib scipy pandas 
+        python3 -m pip install numpy matplotlib scipy pandas ipykernel
         ```
         Wait till all the packages finish installing.
 
