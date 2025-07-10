@@ -1,6 +1,6 @@
 ### Analysis code for experiment investigating the relation between perception of the Enigma Illusion and microsaccade rates
 
-The details of the participant you collected can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1fhUSIICf9VUJdbGJ3jSWCKc3_1ejxcW0oUEZCijZA_g/edit?usp=sharing)
+The details of the participants from whom you collected data can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1fhUSIICf9VUJdbGJ3jSWCKc3_1ejxcW0oUEZCijZA_g/edit?usp=sharing)
 
 #### Primary Analysis
 
