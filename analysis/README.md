@@ -11,6 +11,6 @@ The details of the participants from whom you collected data can be found in [th
 
 #### Access to raw data (optional)
 
-- The raw data for the experiment can be downloaded from [this link](https://syncandshare.lrz.de/getlink/fiVigV7Xped7NYGfc729md/). This would also allow you to rerun the saccade detection algorithm (in saccadeDetection.py). Note that the saccade detection script would _not_ run without the raw data.
+- The raw data for the experiment can be downloaded from [this link](https://syncandshare.lrz.de/getlink/fiCY8ypeRQ5C5Mz6vFVzAN/rawdata_empra25.zip). This would also allow you to rerun the saccade detection algorithm (in saccadeDetection.py). Note that the saccade detection script would _not_ run without the raw data.
 - Note that you would have to specify the path to the raw data in this script. The parameter to the function is called _rawdatadirectory_.
 - You can also visualize the detected saccades, overlaid on the raw data, with the script vizualizeDetectedSaccades.py . Note again that you would have to specify the path to the raw data. 
